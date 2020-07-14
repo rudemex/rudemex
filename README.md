@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="MOSHED-2020-7-14-0-21-11.gif" alt="Welcome!" width="500"/>
+<img src="https://raw.githubusercontent.com/rudemex/rudemex/master/MOSHED-2020-7-14-0-21-11.gif" alt="Welcome!" width="500"/>
 
 </div>
 
