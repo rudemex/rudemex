@@ -1,13 +1,13 @@
 # Hi 👋, I'm Mex Delgado
 <div align="left">
   <a href="https://instagram.com/rudemex" target="_blank">
-    <img src="https://img.shields.io/badge/-@rudemex-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/rudemex" alt="Instagram Rudemex"/>
+    <img src="https://img.shields.io/badge/-@rudemex-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=FFFFFF" alt="Instagram Rudemex"/>
   </a>
  <a href="https://twitter.com/rudemex" target="_blank">
-    <img src="https://img.shields.io/badge/-@rudemex-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rudemex" alt="Twitter Rudemex"/>
+    <img src="https://img.shields.io/badge/-@rudemex-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Rudemex"/>
   </a>
   <a href="mailto:mdelgado@tresdoce.com.ar" target="_blank">
-    <img src="https://img.shields.io/badge/-mdelgado@tresdoce.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdelgado@tresdoce.com.ar" alt="Send me a email"/>
+    <img src="https://img.shields.io/badge/-mdelgado@tresdoce.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Send me a email"/>
   </a>
   
   
