@@ -1,8 +1,14 @@
-<div align="center" width="50">
-
-<img src="https://raw.githubusercontent.com/rudemex/rudemex/master/MOSHED-2020-7-14-0-21-11.gif" alt="Welcome!" width="500"/>
-
+# Mex Delgado
+<div align="center">
+  <a href="https://instagram.com/rudemex">
+    <img src="https://img.shields.io/badge/-@rudemex-E4405F?style=flat-square&labelColor=E4405F&logo=instagram&logoColor=FFFFFF&link=https://instagram.com/rudemex" alt="Instagram Rudemex"/>
+  </a>
+ <a href="https://twitter.com/rudemex">
+    <img src="https://img.shields.io/badge/-@rudemex-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rudemex" alt="Twitter Rudemex"/>
+  </a>
 </div>
+
+
 
 <!--
 ### Hi there 👋
