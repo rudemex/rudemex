@@ -15,3 +15,8 @@
 
 I'm a fullstack developer 👨‍💻, maker 🛠 and graphic designer 🖌
 
+#
+
+<div align="right">
+  <p>Build with ❤</p>
+</div>
