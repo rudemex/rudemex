@@ -13,8 +13,12 @@
   </a>
 </div>
 
-I'm a fullstack developer 👨‍💻, maker 🛠 and graphic designer 🖌
-
+<div align="center">
+  <br>
+  I'm a fullstack developer 👨‍💻, maker 🛠 and graphic designer 🖌
+  <br>
+</div>
+  
 #
 
 <div align="right">
