@@ -21,6 +21,6 @@
   
 #
 
-<div align="right">
+<div align="center">
   <p>Build with ❤</p>
 </div>
