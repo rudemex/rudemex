@@ -22,5 +22,5 @@
 #
 
 <div align="center">
-  <p>Build with ❤</p>
+  <p>Made with ❤</p>
 </div>
