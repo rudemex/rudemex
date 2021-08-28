@@ -22,5 +22,8 @@
 #
 
 <div align="center">
-  <p>Made with ❤</p>
+    <a href="mailto:mdelgado@tresdoce.com.ar" target="_blank" alt="Send an email">
+        <img src="./logo-mex-red.svg" width="120" alt="Mex" />
+    </a><br/>
+    <p>Made with ❤</p>
 </div>
