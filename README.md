@@ -15,7 +15,7 @@
 
 <div align="center">
   <br>
-  I'm a fullstack developer 👨‍💻, maker 🛠 and graphic designer 🖌
+  I'm a Software Architect 👨‍💻, maker 🛠 and graphic designer 🖌
   <br>
 </div>
   
